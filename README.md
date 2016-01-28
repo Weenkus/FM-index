@@ -30,3 +30,7 @@ License:
 --------
 
 FMindex is released under the MIT/X11 license. See the file LICENSE for more details.
+
+### Contact
+
+If you have any problems, questions or suggestions send me a mail at vinko.kodzoman@fer.hr
